@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Manga Viewer - June 2003", "Manga Viewer - June 2003.vbproj", "{E2BFD8E3-0F79-4ED2-BBA2-2F8479C95821}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Manga Viewer Installer", "..\Manga Viewer Installer\Manga Viewer Installer.vdproj", "{258E0320-5415-48D8-A525-F184374E3AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E2BFD8E3-0F79-4ED2-BBA2-2F8479C95821}.Debug.ActiveCfg = Debug|.NET
+		{E2BFD8E3-0F79-4ED2-BBA2-2F8479C95821}.Debug.Build.0 = Debug|.NET
+		{E2BFD8E3-0F79-4ED2-BBA2-2F8479C95821}.Release.ActiveCfg = Debug|.NET
+		{E2BFD8E3-0F79-4ED2-BBA2-2F8479C95821}.Release.Build.0 = Debug|.NET
+		{258E0320-5415-48D8-A525-F184374E3AFC}.Debug.ActiveCfg = Debug
+		{258E0320-5415-48D8-A525-F184374E3AFC}.Debug.Build.0 = Debug
+		{258E0320-5415-48D8-A525-F184374E3AFC}.Release.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
